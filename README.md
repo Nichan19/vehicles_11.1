@@ -1,5 +1,5 @@
 # vehicles_11.1  
-OVERVIEW  
+# OVERVIEW  
 
 In this application, we explore a dataset from Kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars to ensure speed of processing. My goal is to understand what factors make a car more or less expensive. As a result of the analysis, I will provide clear recommendations to client -- a used car dealership -- as to what consumers value in a used car. So, identify which features most influence used car prices, to help dealerships improve inventory and pricing strategies.   
 
